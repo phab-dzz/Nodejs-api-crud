@@ -1,0 +1,79 @@
+{
+    "travel":[
+        {
+            "bookTitle":"The Alchemist",  
+            "bookPrice":"10.00",
+            "Available":"19",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/81aBwvK5FvL.jpg",
+            "bookDescription":"The Alchemist is a novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller. An allegorical novel, The Alchemist follows a young Andalusian shepherd in his journey to the pyramids of Egypt, after having a recurring dream of finding a treasure there.",
+            "upc":"978623f15007"
+
+        },
+        {
+            "bookTitle":"The Catcher in the Rye",
+            "bookPrice":"12.99",
+            "Available":"10",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51LqJ%2Bv6WAL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. It is a story about a teenager named Holden Caulfield, who is expelled from his school and goes on a journey of self-discovery in New York City.",
+            "upc":"9731676ds9488" 
+        },
+        {
+            "bookTitle":"Into the Wild",
+            "bookPrice":"9.99",
+            "Available":"15",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"Into the Wild is a non-fiction book by Jon Krakauer that was first published in 1996. It tells the story of Christopher McCandless, a young",
+            "upc":"97803854t86804"
+        },
+        {
+            "bookTitle":"Wild",
+            "bookPrice":"11.99",
+            "Available":"20",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"Wild: From Lost to Found on the Pacific Crest Trail is a memoir by American author Cheryl Strayed, first published in 2012. It tells the story of Strayed's 1,100-mile hike on the Pacific Crest Trail in 1995, following the death of her mother and the dissolution of her marriage.",
+            "upc":"97803074g76074"
+        },
+        {
+            "bookTitle":"Eat, Pray, Love",
+            "bookPrice":"14.99",
+            "Available":"25",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"Eat, Pray, Love: One",
+            "upc":"978014303f8412"
+        },
+        {
+            "bookTitle":"On the Road",
+            "bookPrice":"13.99",
+            "Available":"30",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"On the Road is a novel by American writer Jack Kerouac, based on the travels of Kerouac and his friends across the United States. It was first published in 1957 and is considered a defining work of the postwar Beat and Counterculture generations, with its protagonists living life against a backdrop of jazz, poetry, and drug use.",
+            "upc":"97801402g83297"
+        },
+        {
+            "bookTitle":"The Sun Also Rises",
+            "bookPrice":"15.99",
+            "Available":"35",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"The Sun Also Rises is a novel by American writer Ernest Hemingway that was first published in 1926. It is about a group of American and British expatriates who travel from Paris to the Festival of San Fermín in Pamplona to watch the running of the bulls and the bullfights.",
+            "upc":"97807432g97332"
+        },
+        {
+            "bookTitle":"The Beach",
+            "bookPrice":"16.99",
+            "Available":"40",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"The Beach is a novel by English author Alex Garland that was first published in 1996. It tells the story of a young backpacker who discovers a hidden beach in Thailand that is untouched by tourism, only to find that paradise comes with its own set of problems.",
+            "upc":"97815h732s26523"
+        },
+        {
+            "bookTitle":"The Road",
+            "bookPrice":"17.99",
+            "Available":"45",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51Q7Q9J5HJL._SX331_BO1,204,203,200_.jpg",
+            "bookDescription":"The Road is a novel by American writer Cormac McCarthy that was first published in 2006. It tells the story of a father and son who journey across a post-apocalyptic landscape in search of safety and a better life.",
+            "upc":"97803073h8x7899"
+        }
+
+
+]
+}

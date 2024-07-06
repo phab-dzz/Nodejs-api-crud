@@ -1,0 +1,26 @@
+POST http://localhost:5000/api/v1/auth/register/
+Content-Type: application/json
+
+{
+      "email":"phan203@gmail.com",
+    "password":"phan203"    
+}
+# Get user by id
+
+GET http://localhost:5001/api/v1/user/hdbhbhsd
+###
+POST http://localhost:5000/api/v1/auth/login
+Content-Type: application/json
+
+{
+     "email":"phan203@gmail.com",
+    "password":"phan203"  
+}
+###
+GET http://localhost:5000/api/v1/user/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJwaGFuMjAzQGdtYWlsLmNvbSIsImlhdCI6MTcyMDEwODA3MCwiZXhwIjoxNzIwMTA4MTAwfQ.MCgr5gqK-b3vWLwNOt63bMgDqpokEvJmvJ_paSFSreU
+
+###
+GET http://localhost:5001/api/v1/insert/
+###
+GET http://localhost:5000/api/v1/book/
